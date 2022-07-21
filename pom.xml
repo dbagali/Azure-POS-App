@@ -12,6 +12,7 @@
 	<groupId>com.suggestion</groupId>
 	<artifactId>County</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>County</name>
 	<description>County suggestion API</description>
 	<properties>
